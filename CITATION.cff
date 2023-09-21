@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "Below is the reference to the original project."
+authors:
+  - given-names: XCharts-Team
+    orcid: https://github.com/XCharts-Team/XCharts
+title: XCharts-Team/XCharts: v3.7.0
+version: 3.7.0
+date-released: 2023-06-08
